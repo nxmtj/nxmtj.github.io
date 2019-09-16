@@ -1,6 +1,7 @@
-- name: Blog
-  link: /blog/
-- name: About
-  link: /about/
-- name: Contact
-  link: /contact/
+- name: 日志
+    link: /blog/
+- name: 关于
+    link: /about/
+- name: 联系我
+    link: /contact/
+ 
